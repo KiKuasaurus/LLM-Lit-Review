@@ -1,12 +1,12 @@
-# Goal of the paper: 
+# Goal of the paper
 Create a dataset that consists of many diverse languages
 
-# Main points of research: 
+# Main points of research
 - Setup a good pipeline that allows for better collection and cleaning of data for less resource rich languages
 - Pipeline should be able to be automatically adapted to fit other languages well
 - 
 
-# Findings:
+# Findings
 - builds upon the orginal fineweb research for the general strcuture of the pipeline (filtering, deduplication, more fine grained filtering)
 - Used simple character level n-gram models to classify languages
   - calculates threshold for each language by using standard deviation and median
