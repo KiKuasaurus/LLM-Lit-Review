@@ -55,4 +55,4 @@ Test the hypothesis that the inclusion of fine grained concept annotations will 
 
 
   
-[original article](https://arxiv.org/abs/2506.20920)
+[original article](https://arxiv.org/abs/2412.05939)
